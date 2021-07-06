@@ -4,6 +4,8 @@
 # B) A lista de valores, ordenada de forma decrescente.
 # C) Se o valor 5 foi digitado e está ou não na lista.
 
+# Usando list comprehension...
+
 
 tamanho = int(input('Digite qual será o tamanho da lista: '))
 
